@@ -1,2 +1,4 @@
 # hello-world
-Repository for learning purpose
+Hello there!
+
+I am so excited to start my programming journey! I feel like it could become my another passion in life - I also adore bicycle riding and I'm completely fall in love with books. It's also kind of a magic for me - I create something with words! It's amazing!
